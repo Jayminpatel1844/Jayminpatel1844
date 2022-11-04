@@ -1,4 +1,4 @@
-# Stock_Market_App
+# FANG_App
 FANG stock information.
 
 - api: Using Django REST framework to handle data include getting stock history.
